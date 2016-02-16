@@ -2,18 +2,18 @@
 
 ---
 
-![fit](official-image.png)
+![fit](images/official-image.png)
 
 ---
 
 # [fit] 9월의 어느날
 
-# [fit] 주간뉴스 정리 중 루비 카이기 소식을 보고 
+# [fit] 주간뉴스 정리 중 루비 카이기 소식을 보고
 # [fit] RORLab 슬랙에서 이야기 하다가 표까지 구매
 
 ---
 
-![fit](ticket.png)
+![fit](images/ticket.png)
 
 ---
 
@@ -46,40 +46,40 @@
 # [fit] 유명한 사람들도 많이 참석하는 행사
 # [fit] 마츠, Matz, 松本行弘
 
-![](matz.jpg)
+![](images/matz.jpg)
 
 ---
 
 # Aaron
 
-![original 20%](aaron.JPG)
+![original 20%](images/aaron.JPG)
 
 ---
 
 # [fit] 비행기표는 빨리 예매합시다
 # [fit] 저는 40만원 ㅜ.ㅜ
 
-![](airplane.jpg)
+![](images/airplane.jpg)
 
 ---
 
 # [fit] 숙소는 shia님 덕분에
 # [fit] AirBnb로 저렴하게
 
-![](home.jpg)
+![](images/home.jpg)
 
 ---
 
 # [fit] 입국 시켜주세요 ㅜㅜ
-# [fit] AirBnb 숙소 건물 주소 적었더니 
+# [fit] AirBnb 숙소 건물 주소 적었더니
 # [fit] 방번호 정확히 적으라고 안들여 보내줌
 
 ---
 
-# [fit] 통과는 못하고 
+# [fit] 통과는 못하고
 # [fit] 로밍은 아직 안잡히고 ㅜㅜ
 
---- 
+---
 
 # [fit] 옆에 다른 사람쪽으로 갔더니
 # [fit] 통과 @_@
@@ -87,7 +87,7 @@
 ---
 
 # [fit] 숙소에는 방이 3개 있었는데
-# [fit] 방 하나는 저, shia님 
+# [fit] 방 하나는 저, shia님
 # [fit] 다른 방은 우리와 일정이 같은 대만 사람
 
 ---
@@ -97,17 +97,17 @@
 
 ---
 
-# [fit] 늦잠자서 조금 늦었지만 
+# [fit] 늦잠자서 조금 늦었지만
 # [fit] 다행히도 많이 늦지 않았음
 
 ---
 
-![original](registration.jpg)
+![original](images/registration.jpg)
 
 ---
 
 # [fit] 루비 커미터를 고용한 회사들 소개
-# [fit] Money Forward, Appfolio 
+# [fit] Money Forward, Appfolio
 
 ---
 
@@ -117,7 +117,7 @@
 
 ---
 
-![fit](matz keynote.jpg)
+![fit](images/matz keynote.jpg)
 
 ---
 
@@ -137,7 +137,7 @@
 
 ---
 
-# [fit] 그래도 파이썬 3보다 잘 해냈다! 
+# [fit] 그래도 파이썬 3보다 잘 해냈다!
 
 ---
 
@@ -162,9 +162,9 @@
 
 ---
 
-![](day1_lunch1.JPG)
-![](day1_lunch2.JPG)
-![](day1_lunch3.JPG)
+![](images/day1_lunch1.JPG)
+![](images/day1_lunch2.JPG)
+![](images/day1_lunch3.JPG)
 
 ---
 
@@ -177,7 +177,7 @@
 
 ---
 
-![](question_commiter.JPG)
+![](images/question_commiter.JPG)
 
 ---
 
@@ -196,15 +196,15 @@
 
 ---
 
-![](flappy_sushi.JPG)
+![](images/flappy_sushi.JPG)
 
 ---
 
-![](kiagi_map_2.JPG)
+![](images/kiagi_map_2.JPG)
 
 ---
 
-![](kiagi_map_1.JPG)
+![](images/kiagi_map_1.JPG)
 
 ---
 
@@ -217,23 +217,23 @@
 
 ---
 
-![](commiter.JPG)
+![](images/commiter.JPG)
 
 ---
 
-![](speaker.JPG)
+![](images/speaker.JPG)
 
 ---
 
-![](staff.JPG)
+![](images/staff.JPG)
 
 ---
 
-![](rubyist.JPG)
+![](images/rubyist.JPG)
 
 ---
 
-![](lost.JPG)
+![](images/lost.JPG)
 
 ---
 
@@ -243,7 +243,7 @@
 
 ---
 
-![](rubykaigi_railsas.jpg)
+![](images/rubykaigi_railsas.jpg)
 
 ---
 
@@ -252,51 +252,51 @@
 
 ---
 
-![](closing1.JPG)
+![](images/closing1.JPG)
 
 ---
 
-![original 30%](closing2.JPG)
+![original 30%](images/closing2.JPG)
 
 ---
 
-![original 30%](closing3.JPG)
+![original 30%](images/closing3.JPG)
 
 ---
 
-![](closing4.JPG)
+![](images/closing4.JPG)
 
 ---
 
-![](closing5.JPG)
+![](images/closing5.JPG)
 
 ---
 
-![original 30%](closing6.JPG)
+![original 30%](images/closing6.JPG)
 
 ---
 
-![original 30%](closing7.JPG)
+![original 30%](images/closing7.JPG)
 
 ---
 
-![original 30%](closing8.JPG)
+![original 30%](images/closing8.JPG)
 
 ---
 
-![original 30%](closing9.JPG)
+![original 30%](images/closing9.JPG)
 
 ---
 
-![original 30%](closing10.JPG)
+![original 30%](images/closing10.JPG)
 
 ---
 
-![original 30%](closing11.JPG)
+![original 30%](images/closing11.JPG)
 
 ---
 
-![](closing12.JPG)
+![](images/closing12.JPG)
 
 ---
 
@@ -319,7 +319,7 @@
 
 ---
 
-# [fit] 당근마켓을 만들면서 
+# [fit] 당근마켓을 만들면서
 # [fit] 사용 했던 코드가 있었음
 
 ---
@@ -335,18 +335,18 @@
 
 ---
 
-# [fit] 하지 
+# [fit] 하지
 # [fit] 않은 것
 
 ---
 
 # [fit] 영어나 일본어를 잘 못해서 네트워킹 못함
-# [fit] 원래 수줍은 성격까지 
+# [fit] 원래 수줍은 성격까지
 
 ---
 
 # [fit] 숙소에서 개발하느라
-# [fit] 같은 숙소의 대만 개발자 친구와 
+# [fit] 같은 숙소의 대만 개발자 친구와
 # [fit] 많은 이야기 못한것
 
 ---
