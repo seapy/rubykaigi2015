@@ -13,6 +13,14 @@
 
 ---
 
+![fit](images/kaigi_slack_1.png)
+
+---
+
+![fit](images/kaigi_slack_2.png)
+
+---
+
 ![fit](images/ticket.png)
 
 ---
