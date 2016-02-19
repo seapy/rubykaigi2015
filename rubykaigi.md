@@ -1,4 +1,4 @@
-# Ruby Kiagi 2015
+# Ruby Kaigi 2015
 
 ---
 
@@ -23,6 +23,11 @@
 
 ---
 
+# [fit] 해외 컨퍼런스는 비용과 시간이 부담이었는데
+# [fit] 루비 카이기는 부담이 적은편
+
+---
+
 # [fit] 25,000엔
 ## [fit] 미국에서 하는 행사들에 비하면 가격이 저렴
 
@@ -34,12 +39,14 @@
 ---
 
 # [fit] 비행기 가격도 가까워서 싼편
-# [fit] 저는 바로 예매를 안해서 비싸게 구매한편
 
 ---
 
-# [fit] 해외 컨퍼런스는 비용과 시간이 부담이었는데
-# [fit] 루비 카이기는 부담이 적은편
+# [fit] 비행기표는 빨리 예매합시다
+# [fit] 저는 40만원 ㅜ.ㅜ
+# [fit] shia님은 27만원!
+
+![](images/airplane.jpg)
 
 ---
 
@@ -53,13 +60,6 @@
 # Aaron
 
 ![original 20%](images/aaron.JPG)
-
----
-
-# [fit] 비행기표는 빨리 예매합시다
-# [fit] 저는 40만원 ㅜ.ㅜ
-
-![](images/airplane.jpg)
 
 ---
 
@@ -97,8 +97,16 @@
 
 ---
 
-# [fit] 늦잠자서 조금 늦었지만
-# [fit] 다행히도 많이 늦지 않았음
+# [fit] 루비 커미터를 고용한 회사들 소개
+# [fit] Money Forward, Appfolio
+
+---
+
+![](images/kiagi_map_2.JPG)
+
+---
+
+![](images/kiagi_map_1.JPG)
 
 ---
 
@@ -106,32 +114,37 @@
 
 ---
 
-# [fit] 루비 커미터를 고용한 회사들 소개
-# [fit] Money Forward, Appfolio
+# Shia
 
 ---
 
-# [fit] 루비는 더이상 마츠 본인의 언어가 아님
+# [fit] 인상깊었던 부분
+
+---
+
+# [fit] Honest Ruby
+
+---
+
+![](images/matz keynote.jpg)
+
+---
+
 # [fit] Ruby 3x3
-# [fit] 루비 3.0은 2.0보다 3배 빠르게
 
 ---
 
-![fit](images/matz keynote.jpg)
+# [fit] 정말 3배는 힘들겠지만
+# [fit] 일부러 어려운 목표를 세웠다
 
 ---
 
-# [fit] Ruby 3x3은 힘들 겠지만
-# [fit] 어려운 목표를 일부러 세웠다
+# [fit] 그러니까 수단과 방법은 가리지 않겠다
+## [fit] 유리한 벤치마크를 선택한다든가
 
 ---
 
-# [fit] 벤치마크 같은거 임의로 골라서라도
-# [fit] Ruby 2.0 이라고 했지
-# [fit] 2.1, 2.2 보다 3배라는건 아니다 ㅋ
-
----
-
+# [fit] 반성의 시간
 # [fit] Ruby 1.9에서의 대대적인 변화
 # [fit] 적용되는데 오랜 시간이 걸렸다
 
@@ -141,18 +154,84 @@
 
 ---
 
-# [fit] 루비는 매년 5 ~ 10% 씩 빨라진다
-# [fit] 예금이자보다 높다 ㅋㅋ
+# [fit] MINASWAN
+## [fit] Matz is nice so we are nice
 
 ---
 
-# [fit] 주변 상황은 계속 달라지고
-# [fit] 이에 따른 변화는 계속 수용해 나간다
+# [fit] 루비는 더 이상
+## [fit] MATZ만의 언어가 아님
 
 ---
 
-# [fit] 멀티코어 지원 등 몇개 있었음
-# [fit] 현재는 그냥 아이디어 차원
+# [fit] Fast Feedback
+
+---
+
+# [fit] 여기저기 널린 커미터
+
+---
+
+![](images/commiter.JPG)
+![](images/speaker.JPG)
+
+---
+
+![](images/staff.JPG)
+![](images/rubyist.JPG)
+
+---
+
+# [fit] 구버전과 신버전의 성능 비교 세션
+
+---
+
+# [fit] Q: 이거 왜이럴까요...
+
+---
+
+# [fit] A: 저희도 잘 모르겠습니다.....
+# [fit] 그 벤치마킹 코드 공유 좀 부탁드립니다(_ _)
+
+---
+
+# [fit] 커미터도 궁금하다
+![](images/question_commiter.JPG)
+
+---
+
+# [fit] Q: 잘 이해는 못했는데 성능이 향상 되었어요
+
+---
+
+# [fit] 혹시 여기 계시나요?
+
+---
+
+## [fit] 질문 찬스!
+# [fit] 트위터로 물어보세요
+
+---
+
+![](images/ama.png)
+
+---
+
+# [fit] 주변에서 Python 쓰라는데,
+# [fit] ...어떻게 하면 좋을까요?
+
+---
+
+# [fit] 그럼 배우세요
+
+---
+
+# [fit] 그리고 좋은 기능은
+# [fit] 루비로 가져와주세요
+
+---
+
+# seapy
 
 ---
 
@@ -168,75 +247,6 @@
 
 ---
 
-# [fit] 소녀의 언어라는 명성에 걸맞게
-# [fit] 여성 발표자들도 많았어요
-
----
-
-# [fit] 커미터들에게 궁금한거 물어보는 세션
-
----
-
-![](images/question_commiter.JPG)
-
----
-
-# [fit] 스레드 관련 세션 발표 이후 Q&A에서는
-# [fit] 바로 앞에 있던 커미터가 의견을 제시하기도 함
-
----
-
-# [fit] 커미터들은 거의 모든 세션의 제일 앞줄에 있었음
-# [fit] 공부잘하는 학생이 앞줄에 앉는거랑 비슷한듯? ^^
-
----
-
-# [fit] Ruby Motion 제작자는
-# [fit] motion-game 으로 Flappy Sushi 시연
-
----
-
-![](images/flappy_sushi.JPG)
-
----
-
-![](images/kiagi_map_2.JPG)
-
----
-
-![](images/kiagi_map_1.JPG)
-
----
-
-# [fit] 후드와 셔츠는 4가지 종류
-
-- Committer
-- Speaker
-- Staff
-- Rubyist
-
----
-
-![](images/commiter.JPG)
-
----
-
-![](images/speaker.JPG)
-
----
-
-![](images/staff.JPG)
-
----
-
-![](images/rubyist.JPG)
-
----
-
-![](images/lost.JPG)
-
----
-
 # [fit] 더 많은 사진은
 # [fit] Twitter @nhance
 # [fit] 앞자리에서 사진 많이 찍으신분
@@ -244,59 +254,6 @@
 ---
 
 ![](images/rubykaigi_railsas.jpg)
-
----
-
-# [fit] 마지막... 그리고
-# [fit] Ruby Kaigi 2016
-
----
-
-![](images/closing1.JPG)
-
----
-
-![original 30%](images/closing2.JPG)
-
----
-
-![original 30%](images/closing3.JPG)
-
----
-
-![](images/closing4.JPG)
-
----
-
-![](images/closing5.JPG)
-
----
-
-![original 30%](images/closing6.JPG)
-
----
-
-![original 30%](images/closing7.JPG)
-
----
-
-![original 30%](images/closing8.JPG)
-
----
-
-![original 30%](images/closing9.JPG)
-
----
-
-![original 30%](images/closing10.JPG)
-
----
-
-![original 30%](images/closing11.JPG)
-
----
-
-![](images/closing12.JPG)
 
 ---
 
@@ -360,3 +317,56 @@
 ---
 
 # [fit] 그전까지 영어를 공부해야겠어요
+
+---
+
+# [fit] 마지막... 그리고
+# [fit] Ruby Kaigi 2016
+
+---
+
+![](images/closing1.JPG)
+
+---
+
+![original 30%](images/closing2.JPG)
+
+---
+
+![original 30%](images/closing3.JPG)
+
+---
+
+![](images/closing4.JPG)
+
+---
+
+![](images/closing5.JPG)
+
+---
+
+![original 30%](images/closing6.JPG)
+
+---
+
+![original 30%](images/closing7.JPG)
+
+---
+
+![original 30%](images/closing8.JPG)
+
+---
+
+![original 30%](images/closing9.JPG)
+
+---
+
+![original 30%](images/closing10.JPG)
+
+---
+
+![original 30%](images/closing11.JPG)
+
+---
+
+![](images/closing12.JPG)
