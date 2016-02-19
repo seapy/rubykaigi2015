@@ -34,27 +34,17 @@
 
 ---
 
-# [fit] 루비는 더 이상
-## [fit] MATZ만의 언어가 아님
-
----
-
 # [fit] MINASWAN
 ## [fit] Matz is nice so we are nice
 
 ---
 
+# [fit] 루비는 더 이상
+## [fit] MATZ만의 언어가 아님
+
+---
+
 # [fit] Fast Feedback
-
----
-
-# [fit] Ruby 3x3
-# [fit] Opening with Matz
-
----
-
-# [fit] What could we do?
-# [fit] Closing with Evan Phoenix
 
 ---
 
@@ -72,23 +62,28 @@
 
 ---
 
-# [fit] 커미터들에게 궁금한거 물어보는 세션
-# [fit] Q: 더 느려졌는데 왜죠?
+# [fit] 구버전과 신버전의 성능 비교 세션
 
 ---
 
-# [fit] 듣고 있던 커미터가 바로 대답
+# [fit] Q: 이거 왜이럴까요...
+
+---
+
+# [fit] A: 저희도 잘 모르겠습니다.....
+# [fit] 그 벤치마킹 코드 공유 좀 부탁드립니다(_ _)
 
 ---
 
 # [fit] 커미터도 궁금하다
-# [fit] 루비스트에게 역질문
+
+---
+
 # [fit] Q: 잘 이해는 못했는데 성능이 향상 되었어요
 
 ---
 
-# [fit] 현장에 있던
-# [fit] 패치 작성자가 바로 대답
+# [fit] 혹시 여기 계시나요?
 
 ---
 
@@ -101,21 +96,17 @@
 
 ---
 
-# [fit] Q: Python 쓰라는데
-# [fit] ...어떻게 하죠?
+# [fit] 주변에서 Python 쓰라는데,
+# [fit] ...어떻게 하면 좋을까요?
 
 ---
 
-# [fit] A: 일단 가서 배우세요
+# [fit] 그럼 배우세요
 
 ---
 
 # [fit] 그리고 좋은 기능은
 # [fit] 루비로 가져와주세요
-
----
-
-![](images/question_commiter.JPG)
 
 ---
 
