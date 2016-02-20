@@ -122,6 +122,10 @@
 
 ---
 
+![fit](images/sticker.JPG)
+
+---
+
 # Shia
 
 ---
